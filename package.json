@@ -2,7 +2,6 @@
   "name": "measuring",
   "description": "This project is just a template for creation of new projects",
   "version": "0.0.0",
-  "private": true,
   "author": {
     "name": "Gustavo Andrade <jojovembh@gmail.com>"
   },
